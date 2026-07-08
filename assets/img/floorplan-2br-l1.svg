@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="630" height="1100" viewBox="0 0 630 1100" preserveAspectRatio="xMidYMid meet" role="img" aria-label="Leonardtown Village two-bedroom townhouse first floor plan">
+<defs><style>
+    .fp{fill:#FFFFFF}
+    .w{fill:none;stroke:#2C3E2D;stroke-width:7;stroke-linecap:butt}
+    .wo{fill:none;stroke:#2C3E2D;stroke-width:10;stroke-linecap:butt}
+    .d{fill:none;stroke:#7C9880;stroke-width:4;stroke-dasharray:5 6}
+    .arc{fill:none;stroke:#5E7D63;stroke-width:3}
+    .win{fill:none;stroke:#2C3E2D;stroke-width:2.5}
+    .rm{fill:#22331F;font-family:'Helvetica Neue',Arial,sans-serif;font-size:25px;font-style:italic;text-anchor:middle}
+    .cl{fill:#4A5C4D;font-family:'Helvetica Neue',Arial,sans-serif;font-size:18px;font-style:italic;text-anchor:middle}
+    .sm{fill:#4A5C4D;font-family:'Helvetica Neue',Arial,sans-serif;font-size:14px;font-style:italic;text-anchor:middle}
+  </style></defs>
+<rect class="fp" x="18" y="28" width="590" height="1038"/>
+<path class="w" d="M13,547 H383 M479,547 H606 M12,559 H383 M470,559 H606 M479,650 H610 M477,663 H590 M592,663 H608"/>
+<path class="d" d="M463,547 H482 M584,547 H606 M464,559 H479 M583,559 H612 M588,650 H607 M587,663 H606"/>
+<path class="win" d="M603,543 V603 M608,543 V603 M613,543 V603 M601,543 H615 M601,603 H615"/>
+<path class="win" d="M79,23 H183 M79,28 H183 M79,33 H183 M79,21 V35 M183,21 V35"/>
+<path class="win" d="M374,23 H479 M374,28 H479 M374,33 H479 M374,21 V35 M479,21 V35"/>
+<path class="arc" d="M86,1066 V966 M86,966 A100,100 0 0 1 186,1066"/>
+<path class="arc" d="M340,1066 V959 M340,959 A107,107 0 0 1 447,1066"/>
+<path class="wo" d="M18,28 H79 M183,28 H374 M479,28 H608 V543 M608,603 V1066 H447 M340,1066 H186 M86,1066 H18 V28"/>
+<text class="rm" x="300" y="260">Kitchen/Dining</text>
+<text class="rm" x="215" y="805">Living Room</text>
+<text class="sm" x="540" y="610">Closet</text>
+</svg>
