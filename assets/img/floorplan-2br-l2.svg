@@ -11,21 +11,21 @@
     .cl{fill:#4A5C4D;font-family:'Helvetica Neue',Arial,sans-serif;font-size:18px;font-style:italic;text-anchor:middle}
     .sm{fill:#4A5C4D;font-family:'Helvetica Neue',Arial,sans-serif;font-size:14px;font-style:italic;text-anchor:middle}
   </style></defs>
-<rect class="fp" x="30" y="19" width="765" height="791"/>
-<path class="w" d="M329,126 V279 M329,281 V305 M329,389 V413 M462,37 V144 M462,158 V285 M624,410 V819 M320,147 H333 M335,147 H463 M324,281 H348 M439,281 H662 M768,281 H795 M48,415 H315 M335,415 H479 M594,415 H633 M623,664 H798"/>
-<path class="arc" d="M771,281 V170 M660,281 A111,111 0 0 1 771,170"/>
-<path class="arc" d="M329,393 H244 M329,308 A85,85 0 0 0 244,393"/>
+<rect class="fp" x="30" y="19" width="762" height="791"/>
+<path class="w" d="M461,147 L329,147 L329,305 M329,281 L348,281 M439,281 L662,281 M768,281 L792,281 M30,415 L479,415 M594,415 L624,415 L624,810 M624,664 L792,664 M329,19 L329,40 M329,389 L329,415 M461,19 L461,281"/>
+<path class="arc" d="M768,281 V175 M662,281 A106,106 0 0 1 768,175"/>
+<path class="arc" d="M329,389 H245 M329,305 A84,84 0 0 0 245,389"/>
 <path class="arc" d="M594,415 V530 M479,415 A115,115 0 0 0 594,530"/>
 <path class="d" d="M325,54 V128 M333,54 V128 M332,277 H425 M332,285 H425"/>
-<path class="w" d="M795,12 V821 M329,12 V40 M26,415 H479"/>
-<path class="st" d="M624,418 V655 M795,418 V655 M624,442 H795 M624,472 H795 M624,499 H795 M624,529 H795 M624,556 H795 M624,586 H795 M624,613 H795 M624,643 H795"/>
-<path class="st" d="M624,672 V806 M795,672 V806 M624,700 H795 M624,727 H795 M624,757 H795 M624,784 H795"/>
-<path class="wo" d="M30,19 H795 V240 M795,301 V810 H30 V19"/>
+<path class="st" d="M624,413 V664 M792,413 V664 M624,415 H792 M624,442 H792 M624,472 H792 M624,499 H792 M624,529 H792 M624,556 H792 M624,586 H792 M624,613 H792 M624,643 H792"/>
+<path class="st" d="M624,664 V810 M792,664 V810 M624,700 H792 M624,728 H792 M624,757 H792 M624,784 H792"/>
+<path class="st" d="M619,416.0 H640"/>
+<path class="wo" d="M30,19 H792 V810 H30 V19 H40"/>
 <text class="rm" x="175" y="235">Bedroom</text>
 <text class="sm" x="398" y="92">Closet</text>
 <text class="sm" x="398" y="232">Closet</text>
 <text class="rm" x="655" y="150">Bathroom</text>
 <text class="rm" x="520" y="370">Hallway</text>
 <text class="rm" x="300" y="630">Bedroom</text>
-<text class="sm" x="710" y="762">Closet</text>
+<text class="sm" x="710" y="775">Closet</text>
 </svg>

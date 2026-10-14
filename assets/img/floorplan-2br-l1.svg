@@ -12,16 +12,20 @@
     .sm{fill:#4A5C4D;font-family:'Helvetica Neue',Arial,sans-serif;font-size:14px;font-style:italic;text-anchor:middle}
   </style></defs>
 <rect class="fp" x="23" y="26" width="600" height="1062"/>
-<path class="w" d="M17,560 H395 M483,560 H621 M488,665 H624"/>
-<path class="d" d="M408,556 H491 M408,564 H491 M483,585 V659 M491,585 V659"/>
-<path class="arc" d="M86,26 V132 M86,132 A106,106 0 0 0 192,26"/>
-<path class="win" d="M384,21 H491 M384,26 H491 M384,31 H491 M384,19 V33 M491,19 V33"/>
+<path class="w" d="M23,560 L395,560 M623,560 L493,560 L493,581 M488,665 L623,665"/>
+<path class="arc" d="M86,26 V132 M192,26 A106,106 0 0 1 86,132"/>
+<path class="win" d="M390,21 H491 M390,26 H491 M390,31 H491 M390,19 V33 M491,19 V33"/>
 <path class="win" d="M93,1083 H194 M93,1088 H194 M93,1093 H194 M93,1081 V1095 M194,1081 V1095"/>
 <path class="arc" d="M458,1088 V980 M350,1088 A108,108 0 0 1 458,980"/>
-<path class="st" d="M487,582 H623 M487,610 H623 M487,637 H623 M487,657 H623"/>
-<path class="st" d="M487,672 V1085 M623,672 V1085 M487,691 H623 M487,721 H623 M487,748 H623 M487,775 H623 M487,804 H623 M487,832 H623 M487,859 H623 M487,889 H623 M487,916 H623 M487,943 H623 M487,973 H623 M487,1000 H623 M487,1029 H623 M487,1057 H623 M487,1082 H623"/>
-<path class="wo" d="M23,26 H86 M192,26 H384 M491,26 H623 V1088 H458 M350,1088 H194 M93,1088 H23 V26"/>
+<path class="st" d="M493,560 V568 M493,654 V665 M623,560 V568 M623,654 V665 M493,582 H623 M493,610 H623 M493,637 H623"/>
+<path class="st" d="M487,665 V1088 M623,665 V1088 M487,691 H623 M487,721 H623 M487,748 H623 M487,775 H623 M487,804 H623 M487,832 H623 M487,859 H623 M487,889 H623 M487,916 H623 M487,943 H623 M487,973 H623 M487,1000 H623 M487,1029 H623 M487,1057 H623"/>
+<path class="d" d="M487.0,591 V653"/>
+<path class="d" d="M499.0,591 V653"/>
+<path class="d" d="M414,553.0 H477"/>
+<path class="d" d="M414,565.0 H476"/>
+<path class="st" d="M487,660 V665"/>
+<path class="wo" d="M23,26 H86 M192,26 H390 M491,26 H623 V1088 H458 M350,1088 H194 M93,1088 H23 V26 H33"/>
 <text class="rm" x="307" y="270">Kitchen/Dining</text>
 <text class="rm" x="245" y="850">Living Room</text>
-<text class="sm" x="553" y="620">Closet</text>
+<text class="sm" x="553" y="629">Closet</text>
 </svg>
